@@ -3,8 +3,7 @@
 This repository hosts my CS 499 ePortfolio on **GitHub Pages**.
 
 ## Contents
-- `index.html` – ePortfolio home
-- `styles.css` – basic styles
+- `index.html` – ePortfolio home with the styles
 - (Add artifacts, screenshots, and docs as I progress)
 
 ## Local preview
